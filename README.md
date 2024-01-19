@@ -27,8 +27,12 @@ Delves into machine learning model development using the pre-processed data. Key
 Technical Summary
 
 Data Handling: Expertise in managing, cleaning, and pre-processing large datasets using Python libraries like Pandas and NumPy.
+
 Visualization: Proficiency in data visualization using Matplotlib and Seaborn to derive insights.
+
 Machine Learning: Applied various regression techniques, model evaluation, and tuning for predictive modeling.
+
+
 Conclusion
 
 This project demonstrates a comprehensive approach to handling real-world data, from initial processing to advanced modeling. It highlights key skills in data analysis, pre-processing, and machine learning within the Python ecosystem.
