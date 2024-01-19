@@ -6,14 +6,24 @@ This repository contains a comprehensive project spread across four parts, focus
 
 Project Overview
 
-Housing_Part1
+Housing_Part1:
+
 Focuses on initial data exploration and pre-processing in Python. Key tasks include loading data, handling missing values, and preliminary data visualization.
-Housing_Part2
+
+Housing_Part2:
+
+
 Continues with data pre-processing, employing advanced techniques like imputation for handling missing data and encoding categorical variables.
-Housing_Part3
+
+Housing_Part3:
+
 Includes further data pre-processing, specifically targeting categorical data conversion and normalization of features. This part sets the stage for more accurate and efficient machine learning modeling.
-Housing_Part4
+
+Housing_Part4:
+
 Delves into machine learning model development using the pre-processed data. Key tasks include training different models, evaluating their performance, and optimizing model parameters.
+
+
 Technical Summary
 
 Data Handling: Expertise in managing, cleaning, and pre-processing large datasets using Python libraries like Pandas and NumPy.
