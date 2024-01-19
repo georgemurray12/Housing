@@ -1,4 +1,4 @@
-#Housing Data Analysis and Modeling Project
+Housing Data Analysis and Modeling Project
 
 Introduction
 
